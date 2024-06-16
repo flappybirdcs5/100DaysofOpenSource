@@ -1,0 +1,1 @@
+June 16, 2024: Playing with git, advanced topics like cherry-picking, stashing, rebase and try to make YouTube short videos related to the following topics keeping it simple
